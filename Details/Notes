@@ -1,0 +1,7 @@
+Open file
+Get Pixel Coords and Pixel Value
+Get K Randoms Centroids
+1 - Compute distances from each centroids and each pixels
+2 - Get minimum distance and set pixel in this centroid list
+3 - Compute moyenne in each list in order to redefine a centroid value
+Restart 1, 2 and 3
